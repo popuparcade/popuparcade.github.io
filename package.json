@@ -1,0 +1,20 @@
+{
+  "name": "popuparcade.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle-css": "sheetify assets/deps.css > assets/bundle.css",
+    "start": "jekyll serve -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basscss-grid": "^1.0.3",
+    "csskit": "^1.1.1",
+    "normalize.css": "^3.0.3"
+  },
+  "devDependencies": {
+    "sheetify": "^2.0.0"
+  }
+}

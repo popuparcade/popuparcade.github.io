@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{% if page.title || post.title %}{{ page.title || post.title }} | {{ site.title }}{% else %}{{ site.title }} | {{ site.description }}{% endif %}</title>
+  <meta name="description" content="{% if page.description || post.description %}{{ page.description || post.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700|Lora:400,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/bundle.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="col col-12">
+        <img src="{{site.baseurl}}/assets/logo.png"
+      </div>
+    </div>
+  </header>
+  <main role="main">
+    <div class="container">
+      <div class="content col col-12">
+        {{ content }}
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="container">
+      <div class="col col-12">
+      </div>
+    </div>
+  </footer>
+  <!--<script src="{{ site.baseurl }}/app.js"></script>-->
+</body>
+</html>
