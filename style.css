@@ -49,7 +49,7 @@ input.button:hover {
   color: #fff;
 }
 
-a:link {
+a:link, a:visited {
   color: #E83D73;
 }
 
