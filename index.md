@@ -1,4 +1,5 @@
 ---
+slug: home
 ---
 
 # Mystery boxes

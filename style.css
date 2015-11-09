@@ -11,12 +11,21 @@ body {
   background-color: #DFFFC8;
 }
 
-header {
+body#home header {
   text-align: center;
 }
 
-header img {
+body#home header img {
   width: 100%;
+  height: auto;
+}
+
+header {
+  padding-top: 10px;
+}
+
+header img {
+  width: 150px;
   height: auto;
 }
 

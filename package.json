@@ -5,16 +5,18 @@
   "main": "index.js",
   "scripts": {
     "bundle-css": "sheetify assets/deps.css > assets/bundle.css",
-    "start": "jekyll serve -w"
+    "start": "jekyll serve -w &"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "basscss-grid": "^1.0.3",
     "csskit": "^1.1.1",
+    "mapbox.js": "^2.2.2",
     "normalize.css": "^3.0.3"
   },
   "devDependencies": {
+    "cssnext": "^1.8.4",
     "sheetify": "^2.0.0"
   }
 }
