@@ -2,7 +2,6 @@ title: Popup Arcade
 description: "Connecting people through public game experiences."
 permalink: /posts/:title
 baseurl: ''
-markdown: redcarpet
 exclude: [node_modules, tmp, bin, assets/deps.css]
 
 defaults:
