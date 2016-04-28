@@ -28,7 +28,7 @@ At a recent hackathon focused on Parks & Recreation, we built the 2nd round of p
 
 ### Earlier prototypes!
 
-We made the first prototypes in time for the Seattle Mini Maker Faire!
+We made the first prototypes in for the 2015 Seattle Mini Maker Faire!
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Woo hoo! Our first players! <a href="https://twitter.com/hashtag/MakerfaireSea?src=hash">#MakerfaireSea</a> <a href="https://twitter.com/open_seattle">@open_seattle</a> <a href="https://twitter.com/MakerFaireSea">@MakerFaireSea</a> <a href="https://twitter.com/sethdvincent">@sethdvincent</a> <a href="https://twitter.com/swartLuke">@swartLuke</a> <a href="http://t.co/mNhKZcBkMf">pic.twitter.com/mNhKZcBkMf</a></p>&mdash; stina montilla (@heymontilla) <a href="https://twitter.com/heymontilla/status/645289373286555648">September 19, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
