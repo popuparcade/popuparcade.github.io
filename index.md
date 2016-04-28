@@ -18,7 +18,15 @@ Popup Arcade is an opportunity to learn about your city and fellow residents thr
 
 Imagine a co-op puzzle game that invites citizens across the city to play and connect with each other. The game would consist of puzzles that require multi-player involvement to solve. The goal is to improve community engagement across a city, and encourage citizens to work together toward a common goal. For example, the puzzles would require multiple players to solve them, and a player can request help, which would make a remote console flash in order to attract the help of a passerby.
 
-## First prototypes!
+## Prototypes!
+
+At a recent hackathon focused on Parks & Recreation, we built the 2nd round of prototype arcade machines. Here's some photos:
+
+![luke & the machine](https://lh3.googleusercontent.com/W7UwZ-FRinwTs7DIbUotEIDQSNLxTehHBwn8JuTeqTPFT97WcW_-L5fWJfO7-Vz-8pcIBJ5R_TGky3Jk6MUA2hstQAIlYfBmllFn_IeBxJUCTGJ-PRbvnXFvNiK5a4Gmb188XqiSxTeTp1-DMoS_PjGMO_w6HrmSxQtacvymaCU3ycOKgkPn5QdrNUvNFvJOk2lp1-sGqHwo-hQ_b_m7Jml9wcbBVSIJU2Ntw_n-QPdQnlaTTB9tl325lq0hEyZxVVLLMRowfT-u2oxXsTpLa45rjK-pUMgdyWUP_xH4nWJDA6ahDKDToXiRwJKjXAXCqF0JOIabnoWeGK5nJlKTlDKQvAWb6pqsjLm-SksmS_rOppSAP2Dv4fKpPhwlOIb3HZnBlcKeduj818Ov27gInytawN8nKwb1WZ0u-ThMsGGVoM92_ssmMkKto7sF2rWJxFEjwJcnOxky0pmw9s-TCbFPkcPIfky04Rbty_DEwnzNrzbGkmfzpiSBAS1Ljms1zoHz_R6yN1NhwHN_6sgWyBSIZvsdfC3TuLtIrRHzxhfzhkriBkszVIlm-xpgbp8esJtq=w1163-h1548-no)
+
+![the team](https://lh3.googleusercontent.com/R2hQUnwagqVgIejbreUDJlI6s6KdTH5RauxXQ5rKyZia9Dq82f4otAsWZIoOS4YmBGlne722uRKNMl00yIawaiNx8bAbnR4EthXVJDhVlDdPbshtOjDWQMuuiDW6net1rRHQoLFzz5MtZMqNWVtLycjEqXBISOp-splJ69BaGbMqUZgg_26M8mNeylWHUtHJ94zpAsHTOzkTFxgj4RcMMacDsPiDCDLI2G896SEX5Hy2T9GToo4GRNs_GdohfAsA6ZWGpu8vymNGu61_TxjBS9WUutVsnmCnrgqcTg9q66VcqxIpn70riGZ1Zt7GNwhUqylZKUQ7xVBxEu8zFrliksHYu_GEFbEg64qsEam393B6fPggN_mT_EVVDiHtzyi4YI-w6oY2KhqCp1c4eSrnGeJfzs-kF5xYCk4ZA8jzCboI4b-lV6hgM1oPFTTvXYMfGZHIxNr5PmqSPy_NG52wcUWX9Lmh9kkBASZjC0-DqcAKwQApm3Aszk5fSqhe2z67sZD-fyGCCs3bUaalL2mP1MDBssJcSj-2YFb_AwcGtQ6lOF09f3KDXOiQpUu9Cw_i4K_U=w2065-h1548-no)
+
+### Earlier prototypes!
 
 We made the first prototypes in time for the Seattle Mini Maker Faire!
 
