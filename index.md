@@ -24,7 +24,7 @@ At a recent hackathon focused on Parks & Recreation, we built the 2nd round of p
 
 ![luke & the machine](/assets/luke-and-the-case.jpg)
 
-![the team](/assests/the-team.jpg)
+![the team](/assets/the-team.jpg)
 
 ### Earlier prototypes!
 
